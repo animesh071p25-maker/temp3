@@ -1,0 +1,8 @@
+streamlit
+pandas
+plotly
+textblob
+gnews
+openpyxl
+pillow
+pytesseract
