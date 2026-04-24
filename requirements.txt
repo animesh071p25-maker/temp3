@@ -6,3 +6,4 @@ gnews
 openpyxl
 pillow
 pytesseract
+matplotlib
